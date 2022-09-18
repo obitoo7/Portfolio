@@ -40,6 +40,8 @@
 .page2{
   display: flex;
   flex-direction: column;
+  overflow-y: scroll;
+
 }
 
 .page2>div{
