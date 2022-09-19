@@ -135,4 +135,10 @@
   margin: 20px;
 }
 
+@media (orientation: landscape) {
+  .page3 {
+    height: 400vh;
+    width: 100vw;
+  }
+}
 
